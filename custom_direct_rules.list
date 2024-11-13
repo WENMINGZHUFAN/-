@@ -1,6 +1,7 @@
 PROCESS-NAME,javaw.exe
 PROCESS-NAME,TIM.exe
 PROCESS-NAME,QQCallyo.exe
+PROCESS-NAME,QQExternal.exe
 PROCESS-NAME,WeChat.exe
 PROCESS-NAME,WeChatOCR.exe
 PROCESS-NAME,WeChatPlayer.exe
