@@ -1,0 +1,219 @@
+# 本地网络
+*.lan
+*.localdomain
+*.example
+*.invalid
+*.localhost
+*.test
+*.home.arpa
++.local
+
+# U-Tools 服务
++.u-tools.cn
+
+# MediaTek 服务
++.mediatek.com
+
+# MIUI 服务
+Mijia Cloud
++.miwifi.com
++.market.xiaomi.com
+connect.rom.miui.com
+
+# Windows 服务
+time.windows.com
++.msftncsi.com
++.msftconnecttest.com
+
+# 安全验证
+id6.me
+*.cmpassport.com
+global.turn.twilio.com
+global.stun.twilio.com
+
+# 电信运营商
+auth.wosms.cn
+open.e.189.cn
+mdn.open.wo.cn
+opencloud.wostore.cn
+
+# 通信服务
++.wetab.link
++.wpsmail.net
++.cfprefer1.xyz
++.henzanapp.com
++.pconline.com.cn
+
+# QQ 微信
++.qq.com
++.tencent.com
+report.url.cn
++.wechat.com
++.weixin.qq.com
+localhost.*.qq.com
+localhost.ptlogin2.qq.com
+localhost.sec.qq.com
+localhost.*.weixin.qq.com
+localhost.work.weixin.qq.com
+
+# Steam
++.steamcontent.com
+
+# Wotgame
++.battlenet.com.cn
++.wotgame.cn
++.wggames.cn
++.wowsgame.cn
++.wargaming.net
+
+# 游戏相关
+cable.auth.com
+*.srv.nintendo.net
++.cdn.nintendo.net  # Nintendo Switch
+*.n.n.srv.nintendo.net # Nintendo Switch
+*.stun.playstation.net
+*.xboxlive.com
+xbox.*.microsoft.com
+*.blzstatic.cn
+*.logon.battle.net
+*.logon.battlenet.com.cn
+
+# 时间同步
++.ntp.org
+*.ntp.org.cn
+ntp.*.com
+ntp?.*.com
+time.*.com
+time?.*.com
+time.*.gov
+*.time.edu.cn
+time.*.edu.cn
+pool.ntp.org
+*.pool.ntp.org
+time1.cloud.tencent.com
+time-ios.apple.com # Apple
+
+# 酷我音乐
+*.kuwo.cn
+
+# 虾米音乐
+*.xiami.com
+
+# 咪咕音乐
+*.music.migu.cn
+music.migu.cn
+
+# 百度音乐
+musicapi.taihe.com
+music.taihe.com
+
+# 酷狗音乐
+songsearch.kugou.com
+trackercdn.kugou.com
+
+# JOOX音乐
+joox.com
+api.joox.com
+api-jooxtt.sanook.com
+
+# 网易云音乐
+*.126.net
+music.163.com
+*.music.163.com
+
+# QQ音乐
+y.qq.com
+*.y.qq.com
+streamoc.music.tc.qq.com
+mobileoc.music.tc.qq.com
+isure.stream.qqmusic.qq.com
+dl.stream.qqmusic.qq.com
+aqqmusic.tc.qq.com
+amobile.music.tc.qq.com
+
+# STUN
+stun.*.*
+stun.*.*.*
++.stun.*.*
++.stun.*.*.*
++.stun.*.*.*.*
++.stun.*.*.*.*.*
+
+# ASUS Router
+*.router.asus.com
+
+# shark007 Codecs
+shark007.net
+
+# T-mobile and Ultra Mobile wifi calling
++.3gppnetwork.org
+
+# Linksys Router
+heartbeat.belkin.com
+*.linksys.com
+*.linksyssmartwifi.com
+
+# Apple Software Update Service
+mesu.apple.com
+swscan.apple.com
+swquery.apple.com
+swdownload.apple.com
+swcdn.apple.com
+swdist.apple.com
+time.*.apple.com # Apple
+
+# FinalFantasy XIV Worldwide Server & CN Server
+*.square-enix.com
+*.finalfantasyxiv.com
+*.ffxiv.com
+*.ff14.sdo.com
+ff.dorado.sdo.com
+
+# AdGuard
+adguardteam.github.io
+adrules.top
+anti-ad.net
+local.adguard.org
+static.adtidy.org
+
+# Google
+lens.l.google.com
+stun.l.google.com
+na.b.g-tun.com
+
+# Netflix
++.nflxvideo.net
+
+# Disney Plus
++.media.dssott.com
+
+# 招商银行
++.cmbchina.com
++.cmbimg.com
+
+# 迅雷
++.sandai.net
++.n0808.com
+
+# UU Plugin
++.uu.163.com
+ps.res.netease.com
+
+# 向日葵远程控制
++.oray.com
++.orayimg.com
+
+# 其他服务
+GC._msDCS.*.*
+DC._msDCS.*.*
+PDC._msDCS.*.*
++.lenovomm.com
+proxy.golang.org
+*.jegotrip.com.cn
+*.icitymobile.mobi
++.cdn.statically.io
+*.mcdn.bilivideo.cn
++.infinitynewtab.com
+resolver1.opendns.com
+network-test.debian.org
+detectportal.firefox.com
