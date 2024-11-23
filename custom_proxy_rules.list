@@ -3,6 +3,7 @@ PROCESS-NAME,tsukimi.exe
 PROCESS-NAME,electron.exe
 PROCESS-NAME,clash-verge.exe
 PROCESS-NAME,Clash Verge.exe
+PROCESS-NAME,verge-mihomo.exe
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,up.xmsl.org
 DOMAIN-SUFFIX,gstatic.com
