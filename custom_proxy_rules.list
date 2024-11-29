@@ -4,6 +4,9 @@ PROCESS-NAME,electron.exe
 PROCESS-NAME,clash-verge.exe
 PROCESS-NAME,Clash Verge.exe
 PROCESS-NAME,verge-mihomo.exe
+# 安卓端
+PROCESS-NAME,com.hush.yamby
+PROCESS-NAME,work.aliz.femor
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,up.xmsl.org
 DOMAIN-SUFFIX,gstatic.com
