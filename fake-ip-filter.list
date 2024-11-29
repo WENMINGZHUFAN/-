@@ -218,3 +218,5 @@ resolver1.opendns.com
 network-test.debian.org
 detectportal.firefox.com
 +.a.nel.cloudflare.com
++.dns.google
++.cloudflare-dns.com
