@@ -23,6 +23,7 @@ connect.rom.miui.com
 # Windows 服务
 time.windows.com
 +.msftncsi.com
++.dns.msftncsi.com
 +.msftconnecttest.com
 
 # 安全验证
