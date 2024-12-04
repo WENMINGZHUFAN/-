@@ -1,1 +1,8 @@
+# 安卓端
+PROCESS-NAME,com.hush.yamby
+PROCESS-NAME,work.aliz.femor
 
+PROCESS-NAME,femor.exe
+PROCESS-NAME,tsukimi.exe
+PROCESS-NAME,electron.exe
+DOMAIN-SUFFIX,hembed.com
