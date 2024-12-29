@@ -3,6 +3,7 @@ PROCESS-NAME,Clash Verge.exe
 PROCESS-NAME,verge-mihomo.exe
 PROCESS-NAME,GUI.for.SingBox.exe
 DOMAIN-SUFFIX,bilin.ai
+DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,zorocdn.xyz
 DOMAIN-SUFFIX,up.xmsl.org
 DOMAIN-SUFFIX,gstatic.com
