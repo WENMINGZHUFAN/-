@@ -5,6 +5,7 @@ PROCESS-NAME,work.aliz.femor
 PROCESS-NAME,femor.exe
 PROCESS-NAME,tsukimi.exe
 PROCESS-NAME,electron.exe
+PROCESS-PATH,D:\APP\mpv lite v20241015\mpv.exe
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,tanhuatv.site
