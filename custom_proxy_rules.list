@@ -14,5 +14,6 @@ DOMAIN-SUFFIX,chat.lmsys.org
 DOMAIN-SUFFIX,music.mefun.org
 DOMAIN-SUFFIX,wiki.metacubex.one
 # 检测网站
+DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-KEYWORD,ip.skk
