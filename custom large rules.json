@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "process": [
+        "com.hush.yamby",
+        "work.aliz.femor",
+        "femor.exe",
+        "tsukimi.exe",
+        "electron.exe"
+      ],
+      "process_path": [
+        "D:\\APP\\mpv lite v20241015\\mpv.exe"
+      ],
+      "domain_suffix": [
+        "hembed.com",
+        "phncdn.com",
+        "pornhub.com",
+        "labs.google",
+        "tanhuatv.site"
+      ]
+    }
+  ]
+}
