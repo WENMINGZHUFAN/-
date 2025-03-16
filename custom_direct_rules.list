@@ -9,7 +9,6 @@ PROCESS-NAME,WeChatAppEx.exe
 PROCESS-NAME,WeChatUtility.exe
 DOMAIN-SUFFIX,ls365.net
 DOMAIN-SUFFIX,sub.xfltd.me
-DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,time.windows.com
