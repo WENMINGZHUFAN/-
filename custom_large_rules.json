@@ -2,9 +2,11 @@
   "version": 2,
   "rules": [
     {
-      "process": [
+      "package_name": [
         "com.hush.yamby",
-        "work.aliz.femor",
+        "work.aliz.femor"
+      ],
+      "process_name": [
         "femor.exe",
         "tsukimi.exe",
         "electron.exe"
