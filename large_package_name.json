@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "package_name": [
+        "com.hush.yamby",
+        "work.aliz.femor"
+      ]
+    }
+  ]
+}
