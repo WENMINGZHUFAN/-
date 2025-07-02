@@ -6,7 +6,10 @@ PROCESS-NAME,clash-verge.exe
 PROCESS-NAME,Clash Verge.exe
 PROCESS-NAME,verge-mihomo.exe
 PROCESS-NAME,GUI.for.SingBox.exe
-DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,api.closeai.im
+DOMAIN-SUFFIX,xn–ngstr-cn-8za9o.com
+DOMAIN-SUFFIX,xn–ngstr-lra8j.com
+DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,bilin.ai
 DOMAIN-SUFFIX,zorocdn.xyz
 DOMAIN-SUFFIX,up.xmsl.org
