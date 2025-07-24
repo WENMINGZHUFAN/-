@@ -7,6 +7,7 @@ PROCESS-NAME,WeChatOCR.exe
 PROCESS-NAME,WeChatPlayer.exe
 PROCESS-NAME,WeChatAppEx.exe
 PROCESS-NAME,WeChatUtility.exe
+DOMAIN-SUFFIX,dongman.theluyuan.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,jf.969824.xyz
 DOMAIN-SUFFIX,ls365.net
