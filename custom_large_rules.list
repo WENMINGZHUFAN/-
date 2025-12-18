@@ -6,9 +6,11 @@ PROCESS-NAME,femor.exe
 PROCESS-NAME,hills_desktop.exe
 PROCESS-NAME,electron.exe
 PROCESS-PATH,D:\APP\mpv lite v20241015\mpv.exe
+DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,objects.githubusercontent.com
 DOMAIN-SUFFIX,hembed.com
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,tanhuatv.site
+
