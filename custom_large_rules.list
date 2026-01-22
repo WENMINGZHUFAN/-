@@ -4,8 +4,8 @@ PROCESS-NAME,work.aliz.femor
 
 PROCESS-NAME,femor.exe
 PROCESS-NAME,hills_desktop.exe
-PROCESS-NAME,electron.exe
 PROCESS-PATH,D:\APP\mpv lite v20241015\mpv.exe
+PROCESS-PATH,D:\APP\Emby Theater\x64\electron\electron.exe
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,objects.githubusercontent.com
